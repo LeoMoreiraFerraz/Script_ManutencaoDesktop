@@ -17,7 +17,7 @@ echo.
 echo  ==================================
 echo  1. Verificacao e correcao de erros no disco            
 echo  2. Verificacao e reparo de arquivos temporarios    (Necessita usuário privilegiado)    
-echo  3. Limpeza de arquivos temporarios		              (Necessita usuário privilegiado)
+echo  3. Limpeza de arquivos temporarios		      (Necessita usuário privilegiado)
 echo  4. Limpeza do cache de atualizacoes do Windows         
 echo  5. Limpeza do cache de miniatura	
 echo  6. Limpeza do cache de icones    
