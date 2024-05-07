@@ -10,7 +10,7 @@ echo.
 echo Computador: %computername%        Usuario: %username%
 echo.
 
-echo Desenvolvido por Leonardo Moreira Ferraz
+echo Desenvolvido por Leonardo Moreira e Caio Xavier
                    
 echo            	MENU DE TAREFAS
 echo.
